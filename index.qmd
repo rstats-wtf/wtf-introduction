@@ -1,0 +1,222 @@
+---
+title: "What They Forgot To Teach You About R"
+author: "Shannon Pileggi & E. David Aja"
+footer:  "Workshop Overview"
+logo: "img/wtf-logo-square-transparent.png"
+format: 
+  revealjs: 
+    height: 900
+    width: 1600
+    theme: [night, slides.scss]
+    highlight-style: a11y
+    transition: fade
+    slide-number: true
+    chalkboard: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+# WiFi
+
+<br>
+
+**Network** `Posit Conf 2023`
+
+**Password** `conf2023`
+
+```{r}
+library(countdown)
+```
+
+# Introductions
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+**Shannon Pileggi**
+
+![](img/Shannon_circle.png){width="40%"}
+
+
+:::
+
+::: {.column width="50%"}
+**E. David Aja**
+
+![](img/edavidaja-modified.png){width="40%"}
+
+
+:::
+::::
+
+# General information
+
+<br>
+
+* There are **gender-neutral bathrooms** located are among the Grand Suite Bathrooms.
+
+* There are two **meditation/prayer rooms**: Grand Suite 2A and Grand Suite 2B. Open Sunday - Tuesday 7:30 a.m. - 7:00 p.m., Wednesday 8:00 a.m. - 6:00 p.m.
+
+* The **lactation room** is located in Grand Suite 1. Open Sunday - Tuesday 7:30 a.m. - 7:00 p.m., Wednesday 8:00 a.m. - 6:00 p.m.
+
+* Participants who **do not wish to be photographed** have red lanyards; please note everyone's lanyard colors before taking a photo and respect their choices.
+
+# Code of conduct
+
+<br>
+
+The Code of Conduct and COVID policies can be found at <https://posit.co/code-of-conduct/>. Please review them carefully. 
+
+<br>
+
+You can report Code of Conduct violations in person, by email, or by phone.
+
+
+
+# License
+
+<br> 
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+<br>
+
+To view a copy of this license, visit <http://creativecommons.org/licenses/by-sa/4.0/>
+
+# Resources
+
+<br>
+
+Workshop website: <https://github.com/posit-conf-2023/wtf>
+
+<br>
+
+WTF Book: <https://rstats.wtf/>
+
+<br>
+
+Happy Git With R book <https://happygitwithr.com/> 
+
+# Discord for communication
+
+1. Go to the [virtual event portal](https://reg.conf.posit.co/flow/posit/positconf23/attendee-portal/page/portal).
+2. Click on the image that says, “Click here to join Discord, the virtual networking platform!“.
+3. Accept the invitation.
+4. **Review and agree to the code of conduct** to participate in the virtual networking.
+5. Click “Browse Channels” in the top-left corner and search or scroll down until you see your workshop. Check off your workshop to join the channel. (Join any other channels that catch your eye!)
+6. Introduce yourself in your workshop channel!
+
+Encountering any issues? Check out the [Discord tips & troubleshooting](https://docs.google.com/document/d/1c-tO3rY2fLg1lcdEcr0XeLaNZWXA5whOEcG-m9vXSUA/edit) doc.
+
+```{r}
+countdown(
+  minutes = 1,
+  # Fanfare when it's over
+  play_sound = TRUE,
+  # Set timer theme to match solarized colors
+  color_border              = "#FFFFFF",
+  color_text                = "#7aa81e",
+  color_running_background  = "#7aa81e",
+  color_running_text        = "#FFFFFF",
+  color_finished_background = "#ffa07a",
+  color_finished_text       = "#FFFFFF",
+  font_size = "2em",
+  bottom = "70%"
+  )
+```
+
+# Community learning
+
+<br>
+
+Discord will disappear at the end of the conference. For discussions and questions
+that should persist, everyone is encouraged to open issues here:
+
+<br>
+
+<https://github.com/posit-conf-2023/wtf> ->
+
+&nbsp; &nbsp; &nbsp; <https://github.com/posit-conf-2023/wtf/issues>
+
+<br>
+
+Record glitches, gotchas, good sidebar discussions, etc.to address now or later.
+
+# First exercise
+<br>
+
+Go to <https://github.com/posit-conf-2023/wtf/issues>.
+
+<br> 
+
+What’s your OS? Put an emoji on your OS.
+
+```{r}
+countdown(
+  minutes = 1
+  )
+```
+
+# What if...
+
+
+<br> <br> 
+
+&nbsp; &nbsp; &nbsp; I'm in over my head?
+
+. . . 
+
+<br> <br> 
+
+
+&nbsp; &nbsp; &nbsp; I could teach this workshop?
+
+# Meet your neighbors
+
+```{r}
+countdown(
+  minutes = 3,
+  bottom = "0%"
+  )
+```
+
+# Pre-workshop checklist
+
+<br><br>
+
+<https://github.com/posit-conf-2023/wtf#prework>
+
+# Asking for help
+
+<br>
+
+::: {data-id="box1" style="background: #e06666ff; width: 500px; height: 150px; margin: 10px;"}
+I'm stuck or need help
+::: 
+
+<br>
+
+::: {data-id="box2" style="background: #6aa84fff; width: 500px; height: 150px; margin: 10px;"}
+All good, ready to move on
+:::
+
+
+
+# Completion survey
+
+<br>
+
+At the conclusion of the workshop, please submit <https://pos.it/conf-workshop-survey>. 
+
+<br>
+
+Your feedback is crucial! Data from the survey informs curriculum and format decisions for future conf workshops, and we really appreciate you taking the time to provide it.
+
+
+# Go here now
+
+<br><br>
+
+<https://github.com/posit-conf-2023/wtf#schedule>
