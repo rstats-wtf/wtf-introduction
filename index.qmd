@@ -21,9 +21,9 @@ execute:
 
 <br>
 
-**Network** `Posit Conf 2023`
+**Network** `Posit Conf 2024`
 
-**Password** `conf2023`
+**Password** `conf2024`
 
 ```{r}
 library(countdown)
@@ -55,11 +55,11 @@ library(countdown)
 
 <br>
 
-* There are **gender-neutral bathrooms** located are among the Grand Suite Bathrooms.
+* There are **gender-neutral bathrooms** located on levels 3, 4, 5, 6 & 7.
 
-* There are two **meditation/prayer rooms**: Grand Suite 2A and Grand Suite 2B. Open Sunday - Tuesday 7:30 a.m. - 7:00 p.m., Wednesday 8:00 a.m. - 6:00 p.m.
+* The **meditation/prayer room** is located in 503; available Mon & Tues 7am - 7pm, and Wed 7am - 5pm.
 
-* The **lactation room** is located in Grand Suite 1. Open Sunday - Tuesday 7:30 a.m. - 7:00 p.m., Wednesday 8:00 a.m. - 6:00 p.m.
+* The **lactation room** is located in 509; available Mon & Tues 7am - 7pm, and Wed 7am - 5pm.
 
 * Participants who **do not wish to be photographed** have red lanyards; please note everyone's lanyard colors before taking a photo and respect their choices.
 
@@ -89,15 +89,12 @@ To view a copy of this license, visit <http://creativecommons.org/licenses/by-sa
 
 <br>
 
-Workshop website: <https://github.com/posit-conf-2023/wtf>
+Workshop website: <https://github.com/posit-conf-2024/wtf>
 
 <br>
 
 WTF Book: <https://rstats.wtf/>
 
-<br>
-
-Happy Git With R book <https://happygitwithr.com/> 
 
 # Discord for communication
 
@@ -136,28 +133,14 @@ that should persist, everyone is encouraged to open issues here:
 
 <br>
 
-<https://github.com/posit-conf-2023/wtf> ->
+<https://github.com/posit-conf-2024/wtf> ->
 
-&nbsp; &nbsp; &nbsp; <https://github.com/posit-conf-2023/wtf/issues>
+&nbsp; &nbsp; &nbsp; <https://github.com/posit-conf-2024/wtf/issues>
 
 <br>
 
 Record glitches, gotchas, good sidebar discussions, etc.to address now or later.
 
-# First exercise
-<br>
-
-Go to <https://github.com/posit-conf-2023/wtf/issues>.
-
-<br> 
-
-What’s your OS? Put an emoji on your OS.
-
-```{r}
-countdown(
-  minutes = 1
-  )
-```
 
 # What if...
 
@@ -186,7 +169,7 @@ countdown(
 
 <br><br>
 
-<https://github.com/posit-conf-2023/wtf#prework>
+<https://github.com/posit-conf-2024/wtf#prework>
 
 # Asking for help
 
@@ -219,4 +202,4 @@ Your feedback is crucial! Data from the survey informs curriculum and format dec
 
 <br><br>
 
-<https://github.com/posit-conf-2023/wtf#schedule>
+<https://github.com/posit-conf-2024/wtf#schedule>
